@@ -7,7 +7,7 @@ body, h1, h2, h3, p, ul, li, form {
 /* Estilo global para el cuerpo de la página */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #d6d4d4;
     color: #3b3b3b;
     margin: 0;
     padding: 0;
@@ -196,7 +196,16 @@ footer {
     text-align: center;
 }
 
+
+.carrusel {
+    max-width: 1100px;
+    margin: auto;
+}
+
+
+
 .carousel-item {
     padding: 10%;
     background-color:#595a595d;
 }
+
